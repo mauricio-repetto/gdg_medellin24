@@ -1,0 +1,34 @@
+{
+  "repo": "gdg_medellin24",
+  "drive_folder": "https://drive.google.com/drive/folders/1HESxiuKD5WbdFNmn_TRtrbHY3MEqbyvQ",
+  "download": [
+    {
+      "kind": "file",
+      "id": "1vhRYbtNDSxdeW2pEHqTKAajOYhzMgoam",
+      "dest": "notebooks/01_textual_inversion.ipynb",
+      "drive_name": "notebooks/¿Cómo hago para que la AI me conozca? - Textual Inversion.ipynb",
+      "url": "https://drive.google.com/file/d/1vhRYbtNDSxdeW2pEHqTKAajOYhzMgoam/view"
+    },
+    {
+      "kind": "file",
+      "id": "1b-CdGcfdu_h2yfQ7uGb3VnGFS-AQ-pEy",
+      "dest": "notebooks/02_dreambooth.ipynb",
+      "drive_name": "notebooks/¿Cómo hago para que la AI me conozca? - DreamBooth.ipynb",
+      "url": "https://drive.google.com/file/d/1b-CdGcfdu_h2yfQ7uGb3VnGFS-AQ-pEy/view"
+    },
+    {
+      "kind": "file",
+      "id": "1gaIvIONm2VXiA9THBfmjEY2BKa1N053H",
+      "dest": "notebooks/03_lora.ipynb",
+      "drive_name": "notebooks/¿Cómo hago para que la AI me conozca? - LoRA.ipynb",
+      "url": "https://drive.google.com/file/d/1gaIvIONm2VXiA9THBfmjEY2BKa1N053H/view"
+    },
+    {
+      "kind": "slides",
+      "id": "1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw",
+      "dest": "slides/como_hago_para_que_la_ia_me_conozca.pdf",
+      "drive_name": "¿Cómo hago para que la AI me conozca? (Google Slides)",
+      "url": "https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit"
+    }
+  ]
+}
